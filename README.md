@@ -1,5 +1,4 @@
 # GraveDigger
 The dead is alive
 
-bboyhao.github.io
-
+https://bboyhao.github.io/
